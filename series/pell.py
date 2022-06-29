@@ -1,6 +1,3 @@
-from numpy import number
-
-
 def pellCreator(position):
     start=0
     second=1
@@ -17,7 +14,7 @@ def pellCreator(position):
             print(pellnumber,end=" ")
             i=i+1
             start=second
-            second=pellnumber
+            second=pellnumber#pell number will become as second as this is last number in series
 
 if __name__=="__main__":
     position=input("Please input the poistion till which you want print the pell number :: ")
