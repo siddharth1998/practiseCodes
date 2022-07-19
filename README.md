@@ -36,7 +36,8 @@ If anyone uses these codes to a cheat interviews or any exams, you are cheating 
 <li>header with input.txt</li>
 <li>last n character using tail.txt</li>
 <li>length of array.txt</li>
-<li>non repeating elements in array.txt</li>notes.txt
+<li>non repeating elements in array.txt</li>
+  <li>notes.txt</li>
 <li>pranthesis translation.txt</li>
 <li>remove line with character a using sed.txt</li>
 <li>reshaping and adding colon.txt</li>
