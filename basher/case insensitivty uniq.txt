@@ -1,0 +1,1 @@
+cat $1 | uniq -ic | sed "s/^\s*//"
