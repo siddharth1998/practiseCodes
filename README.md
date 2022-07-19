@@ -19,5 +19,33 @@ If anyone uses these codes to a cheat interviews or any exams, you are cheating 
 </ul>
 <li>Flask Automation</li>
 <ul>Python Script to automate flask setup automation</ul>
+<li>Basher</li>
+<ul>
+
+<li>Delete all lower using tr -d.txt</li>
+<li>Replacement of space using tr.txt</li>
+<li>array slicing.txt</li>
+<li>average with awk bc.txt</li>
+<li>awk if else and output manipulation.txt</li>
+<li>case insensitivty uniq.txt</li>
+<li>change seperation awk.txt</li>
+<li>concatenate 3 arrays.txt</li>
+<li>convert capital into specfic character.txt</li>
+<li>cut with specific.txt</li>
+<li>decimal round using awk and bc.txt</li>
+<li>header with input.txt</li>
+<li>last n character using tail.txt</li>
+<li>length of array.txt</li>
+<li>non repeating elements in array.txt</li>notes.txt
+<li>pranthesis translation.txt</li>
+<li>remove line with character a using sed.txt</li>
+<li>reshaping and adding colon.txt</li>
+<li>reshaping using paste commadn.txt</li>
+<li>reverse sorting array.txt</li>
+<li>sed with specific lines.txt</li>
+<li>sort specifc column.txt</li>
+<li>triangle equi scale iso.txt</li>
+
+</ul>
 </ol>
 </h3>
