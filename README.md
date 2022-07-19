@@ -13,6 +13,11 @@ If anyone uses these codes to a cheat interviews or any exams, you are cheating 
 <li> find the break in AP.py </li>
 <li> fibonacci.py</li>
 </ul>
-
+<li> Socket </li> 
+<ul>
+<li> Practise of socket (basics) </li>
+</ul>
+<li>Flask Automation</li>
+<ul>Python Script to automate flask setup automation</ul>
 </ol>
 </h3>
