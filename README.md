@@ -22,30 +22,30 @@ If anyone uses these codes to a cheat interviews or any exams, you are cheating 
 <li>Basher</li>
 <ul>
 
-<li>Delete all lower using tr -d.txt</li>
-<li>Replacement of space using tr.txt</li>
-<li>array slicing.txt</li>
-<li>average with awk bc.txt</li>
-<li>awk if else and output manipulation.txt</li>
-<li>case insensitivty uniq.txt</li>
-<li>change seperation awk.txt</li>
-<li>concatenate 3 arrays.txt</li>
-<li>convert capital into specfic character.txt</li>
-<li>cut with specific.txt</li>
-<li>decimal round using awk and bc.txt</li>
-<li>header with input.txt</li>
-<li>last n character using tail.txt</li>
-<li>length of array.txt</li>
-<li>non repeating elements in array.txt</li>
-  <li>notes.txt</li>
-<li>pranthesis translation.txt</li>
-<li>remove line with character a using sed.txt</li>
-<li>reshaping and adding colon.txt</li>
-<li>reshaping using paste commadn.txt</li>
-<li>reverse sorting array.txt</li>
-<li>sed with specific lines.txt</li>
-<li>sort specifc column.txt</li>
-<li>triangle equi scale iso.txt</li>
+<li>Delete all lower using tr -d.sh</li>
+<li>Replacement of space using tr.sh</li>
+<li>array slicing.sh</li>
+<li>average with awk bc.sh</li>
+<li>awk if else and output manipulation.sh</li>
+<li>case insensitivty uniq.sh</li>
+<li>change seperation awk.sh</li>
+<li>concatenate 3 arrays.sh</li>
+<li>convert capital into specfic character.sh</li>
+<li>cut with specific.sh</li>
+<li>decimal round using awk and bc.sh</li>
+<li>header with input.sh</li>
+<li>last n character using tail.sh</li>
+<li>length of array.sh</li>
+<li>non repeating elements in array.sh</li>
+  <li>notes.sh</li>
+<li>pranthesis translation.sh</li>
+<li>remove line with character a using sed.sh</li>
+<li>reshaping and adding colon.sh</li>
+<li>reshaping using paste commadn.sh</li>
+<li>reverse sorting array.sh</li>
+<li>sed with specific lines.sh</li>
+<li>sort specifc column.sh</li>
+<li>triangle equi scale iso.sh</li>
 
 </ul>
 </ol>
