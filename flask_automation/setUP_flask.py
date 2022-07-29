@@ -50,6 +50,7 @@ f.write("""
         {% include "headercss.html" %}
         <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{url_for('static',filename='css/homepage.css')}}">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         {% block manualCSS %}
         {% endblock %}
     </head>
