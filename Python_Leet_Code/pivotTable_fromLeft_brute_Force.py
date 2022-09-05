@@ -48,3 +48,5 @@ class Solution:
                 return(i)
             leftSum+=nums[i]
         return -1
+
+#refered this : https://www.youtube.com/watch?v=u89i60lYx8U my approach was correct but was complex
