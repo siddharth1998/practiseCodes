@@ -49,9 +49,8 @@ If anyone uses these codes to a cheat interviews or any exams, you are cheating 
 
 
 </ul>
-</ol>
-
-<ol>
 <li>Some of the python codes are given here</li>
 </ol>
+
+
 </h3>
