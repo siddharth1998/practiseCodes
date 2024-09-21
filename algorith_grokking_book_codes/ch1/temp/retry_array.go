@@ -18,7 +18,7 @@ func delete(array *[3]int,index int)(status bool,element int){
 
 }
 
-func insertIntoArray(array *[3]int,element int )(bool,int){
+func insertIntoArray(array *[3]int,element int)(bool,int){
 	// Assuming 0 is not allowed or 0 is empty
 	if( element ==0){
 		return false,-1
