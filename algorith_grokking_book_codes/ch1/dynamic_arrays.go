@@ -83,15 +83,15 @@ func main(){
 	array=insert(array,7)
 	array=insert(array,8)
 	fmt.Println(array)
-	array=delete(array,4)
-	array=delete(array,4)
-	array=delete(array,4)
+	fmt.Printf(" Size %d ",len(array))
 
+	array=delete(array,4)
+	array=delete(array,4)
+	
+	array=delete(array,4)
 	fmt.Println(array)
+	
 	array=delete(array,2)
 	fmt.Println("Decrease array",array)
-
-	fmt.Printf("%d ",len(array))
-	
-	
+	fmt.Printf(" Size %d ",len(array))
 }
